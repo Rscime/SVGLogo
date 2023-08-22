@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+        <html>
+        <body>
+
+        <svg width = "300" height = "200">
+    
+        <circle 
+        cx = "150"
+        cy = "100"
+        r = "100" 
+        fill="undefined"/>
+        
+        <text 
+        x ="150"
+        y ="120"
+        text-anchor="middle"
+        font-size ="75"
+        fill="undefined">
+        [object Object]
+        </text>
+        </svg>
+        </body>
+        </html>
