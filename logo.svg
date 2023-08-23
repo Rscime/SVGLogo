@@ -1,18 +1,17 @@
-
+        
         <svg width = "300" height = "200">
     
-        <circle 
-        cx = "150"
-        cy = "100"
-        r = "100" 
-        fill="black"/>
+        <rect 
+        height="200" 
+        width="200" 
+        fill="green"/>
         
         <text 
-        x ="150"
+        x ="100"
         y ="120"
         text-anchor="middle"
         font-size ="75"
-        fill="blue">
-        
+        fill="black">
+        abc
         </text>
         </svg>
